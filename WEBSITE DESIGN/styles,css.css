@@ -1,24 +1,24 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    margin: 200px;
+    padding: 50px;
 }
 
 header, footer {
     background-color: #a519e6;
     color: purple;
     text-align: center;
-    padding: 1em;
+    padding: 50px;
 }
 
 nav ul {
     list-style-type: none;
-    padding: 0;
+    padding: 30px;
 }
 
 nav ul li {
     display: inline;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 nav ul li a {
@@ -27,7 +27,7 @@ nav ul li a {
 }
 
 main {
-    padding: 1em;
+    padding: 50px;
 }
 
 h1, h2 {
